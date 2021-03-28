@@ -4,12 +4,12 @@ Shared recipes among friends: the secret sauce! (<333)
 
 Categorized as follows:
 
-### vegan savory
+##### vegan savory
 
-### vegan treats
+##### vegan treats
 
-### instant pot
+##### instant pot
 
-### bakery
+##### bakery
 
-### breads, specifically
+##### breads, specifically
