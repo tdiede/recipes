@@ -1,5 +1,5 @@
 - 3 bananas
-- 1/2 c. (1 tbsp) butter
+- 1/2 c. (8 tbsp) butter
 - 3/4 c. sugar
 - 2 eggs
 - 1 1/2 c. flour
