@@ -1,11 +1,18 @@
+## Moist Banana Bread
+
+##### wet:
 - 3 bananas
 - 1/2 c. (8 tbsp) butter
-- 3/4 c. sugar
 - 2 eggs
+- 1/2 tsp vanilla
+
+##### dry:
+- 3/4 c. sugar
 - 1 1/2 c. flour
 - 1 tsp baking soda
 - 1/2 tsp salt
-- 1/2 tsp vanilla
+
+##### add-ons:
 - 1 c. walnuts
 - 1/2 c. raisins
 - chocolate chips
